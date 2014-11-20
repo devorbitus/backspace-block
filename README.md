@@ -18,7 +18,7 @@ Then add a `<script>` to your `index.html`:
 
 ## Features
 
-After adding this project to your application the backspace key will only 
+After adding this project to your application the backspace key will only be registered by the browser when you are in an input field or a text area. There are no dependancies for this to function properly.
 
 ## Credits
 
