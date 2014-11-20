@@ -1,0 +1,28 @@
+{
+  "name": "backspace-block",
+  "version": "1.0.0",
+  "description": "Bower component to block the backspace button from working when user is not on an input field so that the browser doesn't trigger the back button",
+  "main": "backspace-block.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devorbitus/backspace-block.git"
+  },
+  "keywords": [
+    "bower",
+    "backspace",
+    "block",
+    "browser"
+  ],
+  "author": "Chris Gruel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devorbitus/backspace-block/issues"
+  },
+  "homepage": "https://github.com/devorbitus/backspace-block",
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
+}
